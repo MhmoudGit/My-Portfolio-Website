@@ -1,3 +1,5 @@
+import Head from "next/head";
+
 const Animation = () => {
   return (
     <div className="animation">
