@@ -38,7 +38,7 @@ const Projects = () => {
                 <RiShareBoxLine />
               </a>
               <a
-                href="/https://github.com/MhmoudGit/My-Portfolio-Website"
+                href="https://github.com/MhmoudGit/My-Portfolio-Website"
                 target="_blank"
                 rel="noopener noreferrer"
               >
