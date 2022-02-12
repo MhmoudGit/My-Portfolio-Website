@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Layout from "../comps/Layout";
 import "../styles/globals.css";
-import Animation from "../comps/animation";
+import Animation from "../comps/Animation";
 
 function MyApp({ Component, pageProps }) {
   const [Loading, setLoading] = useState(true);
